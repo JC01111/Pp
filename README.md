@@ -8,4 +8,6 @@ For Ngordnet you would be using browser to find
 
 For BYOW, it's an open world demo game, I am still working on it to make it to a game
 
-(Dont' forget to download the library)
+(Dont' forget to download the library for java programs)
+
+Scheme is written by Python, I used python to replicate the basic logics of how does scheme work (eval, operator, function, etc).
