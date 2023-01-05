@@ -1,5 +1,5 @@
 Hi~
-These are the projects I completed
+These are the projects I completed, due to some technical issues I compressed some files, you would have to download it.
 
 For Game2048, you can simply run it on Intellij 
 
